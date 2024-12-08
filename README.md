@@ -1,4 +1,4 @@
-**📚How Kernel Size and Filter Numbers Influence CNN Performance**
+#**📚How Kernel Size and Filter Numbers Influence CNN Performance**
 
 By: Yinka Mustapha Yusuf 
 
