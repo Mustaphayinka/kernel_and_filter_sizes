@@ -18,6 +18,8 @@ Kernel size and filters in CNNs. How various kernel sizes such as 3×3, 5×5, 7�
 kernel_filter.ipynb: Jupyter Notebook with the step-by-step code for training and evaluating CNNs with different kernel sizes and filter numbers. 
 README.md: Code documentation and instructions on how to use it. 
 
+<br>
+
 
 
 ## **🛠️ How to Use the Code**
@@ -64,6 +66,8 @@ python kernel_filter.py
 
 ## **📊Visualizations**
 
+<br>
+
 
 
 The code will generate the following visualizations to help you analyze CNN performance: 
@@ -77,6 +81,7 @@ The code will generate the following visualizations to help you analyze CNN perf
 ## **📜License**
 This code has MIT License.
 
+<br>
 
 
 
@@ -85,7 +90,7 @@ This code has MIT License.
 Link to the webpage: https://22059454.netlify.app/ 
 
 
-
+<br>
 
 ## **References**
 
