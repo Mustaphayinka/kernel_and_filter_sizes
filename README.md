@@ -4,23 +4,25 @@ By: Yinka Mustapha Yusuf
 
 Student Number: 22059454 
 
-**🚀Introduction**
+## **🚀Introduction**
 
 This repository takes you through a detailed tutorial and practical demonstration of how kernel size and filter numbers influence the performance of a Convolutional Neural Network. For anyone interested in adjusting CNN design to enhance its efficiency in image classification, this tutorial may just be what you need. It offers insight into: 
 
 Kernel size and filters in CNNs. How various kernel sizes such as 3×3, 5×5, 7×7 affect feature extraction. How the count of filters influences the CNNs performance. Python code implementation real-life examples by working with the CIFAR-10 dataset. 
 
+<br>
+
  
- **📂Repository Contents**
+## **📂Repository Contents**
  
 kernel_filter.ipynb: Jupyter Notebook with the step-by-step code for training and evaluating CNNs with different kernel sizes and filter numbers. 
 README.md: Code documentation and instructions on how to use it. 
 
 
 
-**🛠️ How to Use the Code**
+## **🛠️ How to Use the Code**
 
-Requirements 
+### Requirements 
 
 Dependencies required are as follows and should be installed: 
 
@@ -40,7 +42,7 @@ pip install tensorflow matplotlib jupyter
 ```
 
 
-**Running the Code**
+## **Running the Code**
 
 
 
@@ -60,7 +62,7 @@ python kernel_filter.py
 ```
 
 
-**📊Visualizations**
+## **📊Visualizations**
 
 
 
@@ -72,20 +74,20 @@ The code will generate the following visualizations to help you analyze CNN perf
 
 
 
-**📜License**
+## **📜License**
 This code has MIT License.
 
 
 
 
-**🔗Links**  
+## **🔗Links**  
 
 Link to the webpage: https://22059454.netlify.app/ 
 
 
 
 
-**References**
+## **References**
 
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press. 
 
