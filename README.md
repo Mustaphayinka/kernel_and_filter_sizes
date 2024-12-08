@@ -39,16 +39,17 @@ pip install tensorflow matplotlib jupyter
 
 1. Clone the Repository
 ```python
-git clone https://github.com/YourGitHubUsername/YourRepositoryName.git
-cd YourRepositoryName
+https://github.com/Mustaphayinka/kernel_and_filter_sizes.git
+cd kernel_and_filter_sizes
 ```
 2. Run the Jupyter Notebook
 ```python
-jupyter notebook cnn_experiments.ipynb
+jupyter kernel_filter.ipynb
 ```
+
 3. Run the Python Script
 ```python
-python full_code.py
+python kernel_filter.py
 ```
 
 
@@ -59,17 +60,14 @@ The code will generate the following visualizations to help you analyze CNN perf
 1. Training and Validation Accuracy
 2. Training and Validation Loss
 
-These plots will be saved in the plots/ directory and displayed within the Jupyter Notebook. 
 
 **📜License**
-This code is licensed under the MIT License.
+This code has MIT License.
 
 
-**🔗Links**
+**🔗Links**  
 
-GitHub Repository: View Full Code on GitHub  
-
-Webpage Tutorial: Access the Full Tutorial 
+Link to the webpage: https://22059454.netlify.app/ 
 
 
 **References**
