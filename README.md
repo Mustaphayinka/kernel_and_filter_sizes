@@ -4,15 +4,17 @@ By: Yinka Mustapha Yusuf
 
 Student Number: 22059454 
 
-🚀 Introduction
+🚀Introduction
 
 This repository takes you through a detailed tutorial and practical demonstration of how kernel size and filter numbers influence the performance of a Convolutional Neural Network. For anyone interested in adjusting CNN design to enhance its efficiency in image classification, this tutorial may just be what you need. It offers insight into: 
 
- Kernel size and filters in CNNs. How various kernel sizes such as 3×3, 5×5, 7×7 affect feature extraction. How the count of filters influences the CNNs performance. Python code implementation real-life examples by working with the CIFAR-10 dataset. 
+Kernel size and filters in CNNs. How various kernel sizes such as 3×3, 5×5, 7×7 affect feature extraction. How the count of filters influences the CNNs performance. Python code implementation real-life examples by working with the CIFAR-10 dataset. 
  
  📂 Repository Contents 
  
-cnn_experiments.ipynb: Jupyter Notebook with the step-by-step code for training and evaluating CNNs with different kernel sizes and filter numbers. full_code.py: Python script that contains all the code used in the experiments of the tutorial. plots/: Contains the visualizations for training accuracy and loss. README.md: Code documentation and instructions on how to use it. 🛠️ How to Use the Code 
+cnn_experiments.ipynb: Jupyter Notebook with the step-by-step code for training and evaluating CNNs with different kernel sizes and filter numbers. full_code.py: Python script that contains all the code used in the experiments of the tutorial. plots/: Contains the visualizations for training accuracy and loss. README.md: Code documentation and instructions on how to use it. 
+
+**🛠️ How to Use the Code**
 
 Requirements 
 
@@ -29,13 +31,29 @@ Dependencies required are as follows and can be installed by:
 
 Use pip to install exact dependencies:
 
-```python
+``` python
 pip install tensorflow matplotlib jupyter
 ```
 
+**Running the Code**
+
+1. Clone the Repository
+```python
+git clone https://github.com/YourGitHubUsername/YourRepositoryName.git
+cd YourRepositoryName
+```
+2. Run the Jupyter Notebook
+```python
+jupyter notebook cnn_experiments.ipynb
+```
+3. Run the Python Script
+```python
+python full_code.py
+```
 
 
-**📊 Visualizations**
+**📊Visualizations**
+
 The code will generate the following visualizations to help you analyze CNN performance: 
 
 1. Training and Validation Accuracy
@@ -43,11 +61,11 @@ The code will generate the following visualizations to help you analyze CNN perf
 
 These plots will be saved in the plots/ directory and displayed within the Jupyter Notebook. 
 
-**📜 License **
+**📜License**
 This code is licensed under the MIT License.
 
 
-**🔗 Links **
+**🔗Links**
 
 GitHub Repository: View Full Code on GitHub  
 
