@@ -18,7 +18,7 @@ cnn_experiments.ipynb: Jupyter Notebook with the step-by-step code for training 
 
 Requirements 
 
-Dependencies required are as follows and can be installed by: 
+Dependencies required are as follows and should be installed: 
 
     Python 3.x 
 
