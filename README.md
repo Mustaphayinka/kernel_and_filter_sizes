@@ -12,7 +12,8 @@ Kernel size and filters in CNNs. How various kernel sizes such as 3×3, 5×5, 7�
  
  📂 Repository Contents 
  
-cnn_experiments.ipynb: Jupyter Notebook with the step-by-step code for training and evaluating CNNs with different kernel sizes and filter numbers. full_code.py: Python script that contains all the code used in the experiments of the tutorial. plots/: Contains the visualizations for training accuracy and loss. README.md: Code documentation and instructions on how to use it. 
+kernel_filter.ipynb: Jupyter Notebook with the step-by-step code for training and evaluating CNNs with different kernel sizes and filter numbers. 
+README.md: Code documentation and instructions on how to use it. 
 
 **🛠️ How to Use the Code**
 
