@@ -8,9 +8,11 @@ Student Number: 22059454
 
 This repository takes you through a detailed tutorial and practical demonstration of how kernel size and filter numbers influence the performance of a Convolutional Neural Network. For anyone interested in adjusting CNN design to enhance its efficiency in image classification, this tutorial may just be what you need. It offers insight into: 
 
-    Kernel size and filters in CNNs. How various kernel sizes such as 3×3, 5×5, 7×7 affect feature extraction. How the count of filters influences the CNNs performance. Python code implementation real-life examples by working with the CIFAR-10 dataset. 📂 Repository Contents 
-
-    cnn_experiments.ipynb: Jupyter Notebook with the step-by-step code for training and evaluating CNNs with different kernel sizes and filter numbers. full_code.py: Python script that contains all the code used in the experiments of the tutorial. plots/: Contains the visualizations for training accuracy and loss. README.md: Code documentation and instructions on how to use it. 🛠️ How to Use the Code 
+ Kernel size and filters in CNNs. How various kernel sizes such as 3×3, 5×5, 7×7 affect feature extraction. How the count of filters influences the CNNs performance. Python code implementation real-life examples by working with the CIFAR-10 dataset. 
+ 
+ 📂 Repository Contents 
+ 
+cnn_experiments.ipynb: Jupyter Notebook with the step-by-step code for training and evaluating CNNs with different kernel sizes and filter numbers. full_code.py: Python script that contains all the code used in the experiments of the tutorial. plots/: Contains the visualizations for training accuracy and loss. README.md: Code documentation and instructions on how to use it. 🛠️ How to Use the Code 
 
 Requirements 
 
@@ -27,5 +29,41 @@ Dependencies required are as follows and can be installed by:
 
 Use pip to install exact dependencies:
 
-```python pip install tensorflow matplotlib jupyter
+```python
+pip install tensorflow matplotlib jupyter
 ```
+
+
+
+**📊 Visualizations**
+The code will generate the following visualizations to help you analyze CNN performance: 
+
+1. Training and Validation Accuracy
+2. Training and Validation Loss
+
+These plots will be saved in the plots/ directory and displayed within the Jupyter Notebook. 
+
+**📜 License **
+This code is licensed under the MIT License.
+
+
+**🔗 Links **
+
+GitHub Repository: View Full Code on GitHub  
+
+Webpage Tutorial: Access the Full Tutorial 
+
+
+**References**
+
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press. 
+
+Simonyan, K., & Zisserman, A. (2015). Very Deep Convolutional Networks for Large-Scale Image Recognition. 
+
+FreeCodeCamp (2018). An Intuitive Guide to CNNs. 
+
+LearnOpenCV (2020). Understanding CNNs. 
+
+TensorFlow Documentation (2023). Getting Started with Keras. 
+
+Matplotlib Documentation (2023). Plotting Basics. 
