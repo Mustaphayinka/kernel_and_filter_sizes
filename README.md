@@ -1,16 +1,16 @@
-📚 How Kernel Size and Filter Numbers Influence CNN Performance
+**📚How Kernel Size and Filter Numbers Influence CNN Performance**
 
 By: Yinka Mustapha Yusuf 
 
 Student Number: 22059454 
 
-🚀Introduction
+**🚀Introduction**
 
 This repository takes you through a detailed tutorial and practical demonstration of how kernel size and filter numbers influence the performance of a Convolutional Neural Network. For anyone interested in adjusting CNN design to enhance its efficiency in image classification, this tutorial may just be what you need. It offers insight into: 
 
 Kernel size and filters in CNNs. How various kernel sizes such as 3×3, 5×5, 7×7 affect feature extraction. How the count of filters influences the CNNs performance. Python code implementation real-life examples by working with the CIFAR-10 dataset. 
  
- 📂 Repository Contents 
+ **📂 Repository Contents **
  
 kernel_filter.ipynb: Jupyter Notebook with the step-by-step code for training and evaluating CNNs with different kernel sizes and filter numbers. 
 README.md: Code documentation and instructions on how to use it. 
